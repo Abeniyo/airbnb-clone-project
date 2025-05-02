@@ -22,7 +22,7 @@ This backend system replicates the core functionality of Airbnb, supporting user
 - Celery
 - Docker
 
-## Project Roles & Responsibilities
+## Team Roles
 
 This section outlines the roles and responsibilities of each member involved in the development of the Airbnb Clone project. The team structure is inspired by standard software development practices and insights from [ITRexGroup's article on software development team structure](https://itrexgroup.com/blog/software-development-team-structure/).
 
