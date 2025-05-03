@@ -168,7 +168,7 @@ Indexes and caching mechanisms are implemented to ensure efficient data access u
 - Prevents unauthorized access to properties or bookings
 - Ensures trust in the platform and legal compliance
 
-## CI/CD Concepts
+## CI/CD Pipeline
 
 Continuous Integration (CI) ensures that new code changes are automatically tested and merged. Continuous Deployment (CD) automates the deployment of code to production after passing tests.
 
