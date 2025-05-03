@@ -85,7 +85,7 @@ This section outlines the roles and responsibilities of each member involved in 
 - **Docker**: Containerizes the application to ensure consistent development and deployment environments.
 - **CI/CD**: GitHub Actions or similar tools are used for automating builds, testing, and deployments.
 
-## Key Entities and Relationships
+## Database Design
 
 ### User
 - `id` (PK)
