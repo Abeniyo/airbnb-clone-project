@@ -145,7 +145,7 @@ Provides REST and GraphQL documentation for developers using OpenAPI and GraphiQ
 ### 7. Database Optimization
 Indexes and caching mechanisms are implemented to ensure efficient data access under high load.
 
-## Key Security Measures
+## API Security
 
 ### 1. Authentication & Authorization
 - **JWT-based authentication** for session management.
