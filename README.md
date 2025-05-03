@@ -122,7 +122,7 @@ This section outlines the roles and responsibilities of each member involved in 
 - `status`
 - `payment_date`
 
-## Main Features
+## Feature Breakdown
 
 ### 1. User Management
 Handles registration, authentication, profile updates, and permissions. Both guests and hosts are supported.
